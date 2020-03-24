@@ -1,0 +1,19 @@
+.adv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(106, 106, 230);
+    color: white;
+    font-size: 32px;
+    width: 100%;
+}
+
+.head_adv {
+    height: 150px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.side_adv {
+    height: 300px;
+}

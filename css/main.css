@@ -1,0 +1,41 @@
+header {
+    box-shadow: 0 2px 10px 1px #0a0a0a12;
+}
+
+.main_content {
+    margin-top: 10px;
+}
+
+.posts_item {
+    margin-top: 25px;
+}
+
+.watch_count {
+    /* font-style: italic; */
+    color: #c7c7c7;
+}
+
+.media_icon span {
+    margin-right: 5px;
+    color: #828282;
+}
+
+.list_tags {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+#selcted_tag {
+    background-color: #f05a28;
+}
+
+.navbar .icon {
+    transition: color .2s ease-in-out;
+    color: #c7c7c7;
+}
+
+.navbar a:hover,
+.navbar .icon:hover {
+    color: #f05a28;
+    cursor: pointer;
+}
