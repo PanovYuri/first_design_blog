@@ -39,3 +39,13 @@ header {
     color: #f05a28;
     cursor: pointer;
 }
+
+.post_content {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.link_to_post {
+    text-decoration: none;
+    color: none;
+}
