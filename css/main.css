@@ -49,3 +49,7 @@ header {
     text-decoration: none;
     color: none;
 }
+
+.posts_list .card {
+    margin: 15px;
+}
